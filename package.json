@@ -40,7 +40,7 @@
     "chai": "^4.0.1",
     "eslint": "^4.1.0",
     "eslint-plugin-es5": "^1.1.0",
-    "github-changes": "^1.1.0",
+    "github-changes": "^1.1.1",
     "jsdoc": "^3.4.0",
     "prettier": "^1.4.1"
   }
